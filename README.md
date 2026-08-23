@@ -1,2 +1,3 @@
-# slugify-translit
-Fast Unicode-aware URL slug generator with multi-language transliteration.
+# Slugify Translit
+
+Unicode-aware slugifier with zero external dependencies.
